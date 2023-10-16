@@ -10,14 +10,12 @@
   <img src="https://flagcdn.com/w40/jp.png" srcset="https://flagcdn.com/w80/jp.png 2x" width="40" alt="Japanese">
 </h3>
 <p align="center">
-  <a href="https://reddit.com/u/acceleration3"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Reddit.png" width="40" alt="Reddit"></a>
-  <a href="https://discord.com/users/1002324235353608252"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="40" alt="Discord"></a>
-  <a href="https://steamcommunity.com/id/Acceleration3/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png" width="40" alt="Reddit"></a>
+  <a href="https://discord.com/users/1106292786526965891"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" width="40" alt="Discord"></a>
+  <a href="https://steamcommunity.com/id/s1lencexss/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Steam.png" width="40" alt="Reddit"></a>
 </p>
 
 <div align="center">
   
-  ![S1lence Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acceleration3&theme=radical&show_icons=true&hide_border=false&layout=compact)
   ![S1lence Stats](https://github-readme-stats.vercel.app/api?username=s1lence&theme=radical&show_icons=true&hide_border=false&count_private=true)
   
 </div>
